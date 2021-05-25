@@ -1,6 +1,6 @@
 # Introduction
 
-Ever wanted to explore what’s beneath the river Brahmaputra or what secrets our delightful lakes are hiding. If yes, then welcome to team antahsagri where we find answers to these questions through our remotely operated vehicle, Antahsagari. Our team works on diverse modules from ROV designing to its navigation, incorporating image processing and a versatile framework ROS.
+Ever wanted to explore what’s beneath the river Brahmaputra or what secrets our delightful lakes are hiding. If yes, then welcome to team antahsagri where we find answers to these questions through our Semi Autonomous Underwater vehicle, Antahsagari. Our team works on diverse modules from semi-AUV designing to its navigation, incorporating image processing and a versatile framework ROS.
 
 
 ## About us:
