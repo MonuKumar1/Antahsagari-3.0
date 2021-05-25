@@ -4,7 +4,10 @@ Ever wanted to explore what’s beneath the river Brahmaputra or what secrets ou
 
 
 ## About us:
-Antahsagri 2.0 is an underwater, remotely operated vehicle (ROV)  developed by a multidisciplinary student group at IIT Guwahati to facilitate research and development in underwater robotics. 
+Currently we are working on  Antahsagari 3.0  which has six thrusters for better stability and maneuverability, includes robotic arms for underwater sample collection as well as carrying out underwater repairs, and will overcome other challenges faced by old models.
+
+
+Antahsagri 2.0 was an underwater, remotely operated vehicle (ROV)  developed by a multidisciplinary student group at IIT Guwahati to facilitate research and development in underwater robotics. 
 
 Antahsagri traces its origin to June 2019 when a group of students from varied engineering streams came together to deploy their skills. The team developed its first vehicle, Antahsagri 1.0, in November 2019, overcoming hurdles like cost, manufacturability, efficient design, and limited time. The underwater nature imposes a number of challenges for navigation like depth pressure, water leakage, stability related issues, poor underwater lighting, etc. We are determined to develop cutting-edge technology to overcome these challenges.  Antahsagri 2.0  has majorly improved upon the previous versions in terms of weight optimization, reliability, endurance, speed, and high modularity. We aim to make it more versatile and adaptive to make marine research and analysis effortless and prolific in the future.
 
@@ -22,7 +25,7 @@ Antahsagri traces its origin to June 2019 when a group of students from varied e
 
 ## Physical architecture:
 
-Antahsagri  is an under-water remotely operated vehicle (ROV), designed to explore the underwater world and collect data for research and analysis. It is equipped with several sensors:
+Antahsagri 3.0  is an Semi-Autonomous Underwater Vehicle, designed to explore the underwater world and collect data for research and analysis. It is equipped with several sensors:
 
 - 6 Thrusters T100
 - 6 Basic Esc
