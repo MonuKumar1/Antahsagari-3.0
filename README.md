@@ -13,7 +13,7 @@ Antahsagri traces its origin to June 2019 when a group of students from varied e
 
 [**Click_Here**](https://www.youtube.com/watch?v=LpOH96YZ9nc) **to watch the demonstration video.**
 
-<a href="url"><img src="https://drive.google.com/file/d/1DDBlMvk9YMTZqOkPXEiUqOJ4oOYm_I8p/view?usp=sharing" ></a>
+<a href="url"><img src="https://github.com/MonuKumar1/Antahsagari-3.0/blob/master/3D%20Design/images/Antah3.0.png" ></a>
 
 ## AIM:
 
